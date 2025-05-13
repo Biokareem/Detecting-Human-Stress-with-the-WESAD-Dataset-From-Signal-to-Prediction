@@ -20,7 +20,8 @@ detect and classify four affective states: Neutral, Stress, amusement and Medita
 **Affective States**  
 1. **Baseline (Neutral)** – 20 min reading magazines  
 2. **Stress** – Trier Social Stress Test (public speaking + mental math)  
-3. **Amusement** – Watching humorous video clips  
+3. **Amusement** – Watching humorous video clips
+4. Meditation(controlled breathing exercises)
 
 **Key Facts**  
 - Chest device sampling rate: 700 Hz (ECG, EDA, EMG, RESP, TEMP, ACC)  
