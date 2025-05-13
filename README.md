@@ -77,7 +77,7 @@ You may use this data for **scientific, non-commercial purposes** only, provided
    - Train/test split: 80/20 stratified by label 
 ## Results
 
-I evaluated Logistic Regression using 60 s windows with three different step sizes. Here are the binary (stress vs. non-stress) and multi-class (baseline vs. stress vs. amusement) accuracies:
+I evaluated Logistic Regression using 60 s windows with three different step sizes. Here are the binary (stress vs. non-stress) and multi-class (baseline vs. stress vs. amusement vs meditation) accuracies:
 
 | Window Size | Step Size | Binary Accuracy | Multi-class Accuracy |
 | :---------: | :-------: | :-------------: | :------------------: |
