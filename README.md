@@ -73,33 +73,7 @@ You may use this data for **scientific, non-commercial purposes** only, provided
 
 4. **Modeling**  
    - Classifier: **Logistic Regression**  
-   - Train/test split: 80/20 stratified by label  
-## Project Structure
-
-```text
-wesad-chest/
-├── data/
-│   └── processed/
-│       └── preprocessed.csv
-├── features/
-│   ├── features_10s.csv
-│   ├── features_20s.csv
-│   └── features_30s.csv
-├── model/
-│   └── lr_30s_binary.pkl
-├── results/
-│   ├── metrics_10s.csv
-│   ├── metrics_20s.csv
-│   └── metrics_30s.csv
-├── scripts/
-│   ├── segment_windows.py
-│   ├── extract_features.py
-├── notebooks/
-│   └── analysis.ipynb
-├── requirements.txt
-├── LICENSE
-└── README.md 
-````
+   - Train/test split: 80/20 stratified by label 
 
 ## Useful Resources
 
