@@ -58,7 +58,7 @@ You may use this data for **scientific, non-commercial purposes** only, provided
    - Biosppy filters on ECG, EDA, Resp  
 
 2. **Window Segmentation**  
-   We fixed each window to **60 seconds** (42 000 samples at 700 Hz), and generated three separate segmentations by shifting the window start by:
+   I fixed each window to **60 seconds** (42 000 samples at 700 Hz), and generated three separate segmentations by shifting the window start by:
    - **10 s** (7 000 samples)  
    - **20 s** (14 000 samples)  
    - **30 s** (21 000 samples)
@@ -74,7 +74,15 @@ You may use this data for **scientific, non-commercial purposes** only, provided
 4. **Modeling**  
    - Classifier: **Logistic Regression**  
    - Train/test split: 80/20 stratified by label 
+## Results
 
+I evaluated Logistic Regression using 60 s windows with three different step sizes. Here are the binary (stress vs. non-stress) and multi-class (baseline vs. stress vs. amusement) accuracies:
+
+| Window Size | Step Size | Binary Accuracy | Multi-class Accuracy |
+| :---------: | :-------: | :-------------: | :------------------: |
+| 60 sec      | 30 sec    |      97%        |        80%           |
+| 60 sec      | 20 sec    |      95%        |        81%           |
+| 60 sec      | 10 sec    |      95%        |        81%           |
 ## Useful Resources
 
 - GitHub: Stress & Affect Detection example  
