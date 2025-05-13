@@ -2,7 +2,7 @@
 # WESAD-Chest Signals Analysis
 
 This project analyzes the WESAD dataset’s chest-worn RespiBAN device data to
-detect and classify three affective states: Neutral, Stress, amusement and Meditation
+detect and classify four affective states: Neutral, Stress, amusement and Meditation
 
 ## About this Dataset
 
