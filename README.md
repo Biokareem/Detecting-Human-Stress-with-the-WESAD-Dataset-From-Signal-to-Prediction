@@ -52,7 +52,7 @@ You may use this data for **scientific, non-commercial purposes** only, provided
   3. Amusement (funny videos)
   4. Meditation (controlled breathing exercise)
 
- Methodology
+ ### Methodology
 
 1. **Preprocessing**
    - Drop all rows with `temp == 0`  
