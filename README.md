@@ -71,8 +71,10 @@ You may use this data for **scientific, non-commercial purposes** only, provided
    - Time-domain stats: mean, std, median, min, max, skew, kurtosis, Q1/Q3  
    - PSD statistical analysis 
    - HR/HRV interpolated features via R-peak detection
-
-4. **Modeling**  
+4. **Oversampling and Scaling**
+   Oversampler: SMOTE
+   Scaler : Standard Scaler (Z-score Normalization) 
+5. **Modeling**  
    - Classifier: **Logistic Regression**  
    - Train/test split: 80/20 stratified by label 
 ## Results
