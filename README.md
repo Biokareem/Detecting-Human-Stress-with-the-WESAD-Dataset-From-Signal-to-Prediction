@@ -95,7 +95,7 @@ I evaluated Logistic Regression using 60 s windows with three different step siz
 - Guide to Electrodermal Activity (University of Birmingham PDF)  
   https://www.birmingham.ac.uk/Documents/college-les/psych/saal/guide-electrodermal-activity.pdf  
 - Choi et al. “Development and evaluation of an ambulatory stress monitor…”  
-  http://research.cs.tamu.edu/prism/publications/choi2011ambulatoryStressMonitor.pdf  
+  [http://research.cs.tamu.edu/prism/publications/choi2011ambulatoryStressMonitor.pdf](https://pubmed.ncbi.nlm.nih.gov/21965215/)  
 
 ---
 
