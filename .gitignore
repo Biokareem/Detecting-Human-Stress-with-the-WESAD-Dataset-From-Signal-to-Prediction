@@ -1,0 +1,53 @@
+# Byte-compiled / optimized Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual envs
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+# optional: hide generated .py if you export notebooks to scripts
+*.py
+
+# Data files / models / large binaries
+*.pkl
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.csv
+*.tsv
+
+# Kaggle working directory (if you push it)
+kaggle.json
+/kaggle/
+/output/
+/working/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and scratch files
+*.log
+*.out
