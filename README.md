@@ -106,5 +106,8 @@ I evaluated Logistic Regression using 60 s windows with three different step siz
    *ICMI 2018*, 400–408. https://doi.org/10.1145/3242969.3242985
 -  Healey, J. A., & Picard, R. W. (2005). Detecting stress during real-world driving tasks using physiological sensors. *IEEE Transactions on Intelligent Transportation Systems*, 6(2), 156–166.
 - “From lab to real-life: A three-stage validation of wearable technology for stress monitoring.” *MethodsX* (2025). https://doi.org/10.1016/j.mex.2025.103205
+- Measuring mental workload using physiological measures: A systematic
+review
+https://doi.org/10.1016/j.apergo.2018.08.028
 
  
