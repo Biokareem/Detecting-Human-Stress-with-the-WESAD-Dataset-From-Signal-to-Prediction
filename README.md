@@ -72,8 +72,8 @@ You may use this data for **scientific, non-commercial purposes** only, provided
    - PSD statistical analysis 
    - HR/HRV interpolated features via R-peak detection
 4. **Oversampling and Scaling**
-   Oversampler: SMOTE
-   Scaler : Standard Scaler (Z-score Normalization) 
+   - Oversampler: SMOTE
+   - Scaler : Standard Scaler (Z-score Normalization) 
 5. **Modeling**  
    - Classifier: **Logistic Regression**  
    - Train/test split: 80/20 stratified by label 
